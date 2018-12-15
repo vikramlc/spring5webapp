@@ -1,0 +1,28 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>Python 3.6.2 (C:\Users\chauh\AppData\Local\Programs\Python\Python36-32\python.exe)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
